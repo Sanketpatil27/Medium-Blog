@@ -1,0 +1,1 @@
+- we don't use this folder by giving absolute path to our backend project, we have to deploy it on npm or use monorepos, now we are deploying it to npm 
